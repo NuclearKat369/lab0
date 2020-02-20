@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\lab0\Program102\bin\Release\netcoreapp3.1\Program12.exe
+C:\Users\User\source\repos\lab0\Program102\bin\Release\netcoreapp3.1\Program12.deps.json
+C:\Users\User\source\repos\lab0\Program102\bin\Release\netcoreapp3.1\Program12.runtimeconfig.json
+C:\Users\User\source\repos\lab0\Program102\bin\Release\netcoreapp3.1\Program12.runtimeconfig.dev.json
+C:\Users\User\source\repos\lab0\Program102\bin\Release\netcoreapp3.1\Program12.dll
+C:\Users\User\source\repos\lab0\Program102\bin\Release\netcoreapp3.1\Program12.pdb
+C:\Users\User\source\repos\lab0\Program102\obj\Release\netcoreapp3.1\Program12.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab0\Program102\obj\Release\netcoreapp3.1\Program12.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab0\Program102\obj\Release\netcoreapp3.1\Program12.AssemblyInfo.cs
+C:\Users\User\source\repos\lab0\Program102\obj\Release\netcoreapp3.1\Program12.dll
+C:\Users\User\source\repos\lab0\Program102\obj\Release\netcoreapp3.1\Program12.pdb

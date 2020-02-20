@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\lab0\Program9\bin\Release\netcoreapp3.1\Program9.exe
+C:\Users\User\source\repos\lab0\Program9\bin\Release\netcoreapp3.1\Program9.deps.json
+C:\Users\User\source\repos\lab0\Program9\bin\Release\netcoreapp3.1\Program9.runtimeconfig.json
+C:\Users\User\source\repos\lab0\Program9\bin\Release\netcoreapp3.1\Program9.runtimeconfig.dev.json
+C:\Users\User\source\repos\lab0\Program9\bin\Release\netcoreapp3.1\Program9.dll
+C:\Users\User\source\repos\lab0\Program9\bin\Release\netcoreapp3.1\Program9.pdb
+C:\Users\User\source\repos\lab0\Program9\obj\Release\netcoreapp3.1\Program9.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab0\Program9\obj\Release\netcoreapp3.1\Program9.AssemblyInfo.cs
+C:\Users\User\source\repos\lab0\Program9\obj\Release\netcoreapp3.1\Program9.dll
+C:\Users\User\source\repos\lab0\Program9\obj\Release\netcoreapp3.1\Program9.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\lab0\test\bin\Release\netcoreapp3.1\classwork.exe
+C:\Users\User\source\repos\lab0\test\bin\Release\netcoreapp3.1\classwork.deps.json
+C:\Users\User\source\repos\lab0\test\bin\Release\netcoreapp3.1\classwork.runtimeconfig.json
+C:\Users\User\source\repos\lab0\test\bin\Release\netcoreapp3.1\classwork.runtimeconfig.dev.json
+C:\Users\User\source\repos\lab0\test\bin\Release\netcoreapp3.1\classwork.dll
+C:\Users\User\source\repos\lab0\test\bin\Release\netcoreapp3.1\classwork.pdb
+C:\Users\User\source\repos\lab0\test\obj\Release\netcoreapp3.1\classwork.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab0\test\obj\Release\netcoreapp3.1\classwork.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab0\test\obj\Release\netcoreapp3.1\classwork.AssemblyInfo.cs
+C:\Users\User\source\repos\lab0\test\obj\Release\netcoreapp3.1\classwork.dll
+C:\Users\User\source\repos\lab0\test\obj\Release\netcoreapp3.1\classwork.pdb

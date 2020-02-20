@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\lab0\Project12\bin\Release\Project12.exe.config
+C:\Users\User\source\repos\lab0\Project12\bin\Release\Project12.exe
+C:\Users\User\source\repos\lab0\Project12\bin\Release\Project12.pdb
+C:\Users\User\source\repos\lab0\Project12\obj\Release\Project102.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab0\Project12\obj\Release\Project12.exe
+C:\Users\User\source\repos\lab0\Project12\obj\Release\Project12.pdb

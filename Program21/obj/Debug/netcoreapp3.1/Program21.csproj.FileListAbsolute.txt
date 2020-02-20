@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\lab0\Program21\bin\Debug\netcoreapp3.1\Program21.exe
+C:\Users\User\source\repos\lab0\Program21\bin\Debug\netcoreapp3.1\Program21.deps.json
+C:\Users\User\source\repos\lab0\Program21\bin\Debug\netcoreapp3.1\Program21.runtimeconfig.json
+C:\Users\User\source\repos\lab0\Program21\bin\Debug\netcoreapp3.1\Program21.runtimeconfig.dev.json
+C:\Users\User\source\repos\lab0\Program21\bin\Debug\netcoreapp3.1\Program21.dll
+C:\Users\User\source\repos\lab0\Program21\bin\Debug\netcoreapp3.1\Program21.pdb
+C:\Users\User\source\repos\lab0\Program21\obj\Debug\netcoreapp3.1\Program21.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab0\Program21\obj\Debug\netcoreapp3.1\Program21.AssemblyInfo.cs
+C:\Users\User\source\repos\lab0\Program21\obj\Debug\netcoreapp3.1\Program21.dll
+C:\Users\User\source\repos\lab0\Program21\obj\Debug\netcoreapp3.1\Program21.pdb

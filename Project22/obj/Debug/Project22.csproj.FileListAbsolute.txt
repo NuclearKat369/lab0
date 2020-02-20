@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\lab0\Project22\bin\Debug\Project22.exe.config
+C:\Users\User\source\repos\lab0\Project22\bin\Debug\Project22.exe
+C:\Users\User\source\repos\lab0\Project22\bin\Debug\Project22.pdb
+C:\Users\User\source\repos\lab0\Project22\obj\Debug\Project22.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab0\Project22\obj\Debug\Project22.exe
+C:\Users\User\source\repos\lab0\Project22\obj\Debug\Project22.pdb
